@@ -1,0 +1,7 @@
+customtkinter
+pandas
+numpy
+matplotlib
+joblib
+tensorflow
+scipy
