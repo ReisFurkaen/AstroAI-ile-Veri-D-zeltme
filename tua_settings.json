@@ -1,0 +1,6 @@
+{
+    "appearance_mode": "dark",
+    "window_opacity": 1.0,
+    "kirli_csv": "tua_telemetri.csv",
+    "temiz_csv": "temiz_tua_telemetri.csv"
+}
